@@ -58,10 +58,10 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ url('categories') }}">Category</a>
+                        <a class="nav-link" href="{{ url('page1') }}">Page 1</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ url('inventory') }}">Inventory</a>
+                        <a class="nav-link" href="{{ url('page2') }}">Page 2</a>
                     </li>
                 </ul>
             </div>
